@@ -1,0 +1,21 @@
+body {
+ background-color: black;
+ }
+ 
+ h1 {
+   color: white;
+ }
+ 
+ p {
+   color: white;
+ }
+ 
+ a {
+   color: white;
+ }
+ 
+ img {
+   width: 33%;
+   margin: 0 auto;
+   display: block;
+ }
