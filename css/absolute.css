@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
 body {
   background-color: black;
+  font-family: 'Nunito', sans-serif;
 }
 
 h2 {
@@ -30,4 +33,10 @@ h1 {
 li {
   color: #FDFDFF;
   font-size: 15pt
+}
+
+.center {
+  justify-content: center;
+  text-align: center;
+  align-content: center;
 }
